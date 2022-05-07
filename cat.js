@@ -6,4 +6,4 @@ cat.prototype.eat = function(mouse) {
     this.stomach.push(mouse);
 };
 
-module.export = cat;
+export default cat;
