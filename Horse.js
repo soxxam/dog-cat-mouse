@@ -1,4 +1,2 @@
-function Horse() {
-
-};
+function Horse() {};
 export default Horse;
